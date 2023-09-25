@@ -1,0 +1,1920 @@
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+There are 4 devices supporting CUDA
+  Shared memory:                                 65536 bytes
+
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+There are 4 devices supporting CUDA
+
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Shared memory:                                 65536 bytes
+
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+There are 4 devices supporting CUDA
+
+Device 0: "Z100SM"  [SELECTED]
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 1: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 2: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+
+Device 3: "Z100SM"
+  Major revision number:                         9
+  Minor revision number:                         0
+  Total amount of global memory:                 17163091968 bytes
+  Multiple processors count:                     64
+  Shared memory:                                 65536 bytes
+

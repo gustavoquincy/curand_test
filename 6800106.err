@@ -1,0 +1,2 @@
+Invalid address access: (nil), Error code: 1.
+/opt/gridview/slurm/spool/slurmd/job6800106/slurm_script: line 9: 17392 Aborted                 ./curand_and_thrust
